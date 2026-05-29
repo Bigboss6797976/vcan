@@ -1,0 +1,5 @@
+# EAS 构建忽略文件
+node_modules/
+.pm2/
+*.sock
+.git/
